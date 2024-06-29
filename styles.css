@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#game-info {
+    margin: 20px;
+}
+
+#game-details {
+    margin-top: 20px;
+}
+
+.best-player {
+    color: gold;
+    font-weight: bold;
+}
